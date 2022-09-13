@@ -1,2 +1,2 @@
-# SQL-Data-Analysis
-A collection of my SQL files
+## SQL-Data-Analysis
+* Queried a data base performing a pareto analysis about equipment performance using CTEs and Window functions.
